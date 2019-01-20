@@ -1,5 +1,8 @@
 Swiss army knife for dealing with JSON on the CLI.
 
+Why another JSON filtering tool ?
+Becase there are things to improve.
+
 Goals:
 * usable in unix pipe
 * colored output on terminal
@@ -25,4 +28,5 @@ Maybe goals:
 * csv version ?
 
 Prior art:
-* jql
+* [jq](https://stedolan.github.io/jq/)
+* [jql](https://github.com/yamafaktory/jql)
